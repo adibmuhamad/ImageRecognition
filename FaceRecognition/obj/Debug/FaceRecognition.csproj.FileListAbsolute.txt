@@ -1,0 +1,12 @@
+D:\Project\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe.config
+D:\Project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csprojResolveAssemblyReference.cache
+D:\Project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.Form1.resources
+D:\Project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.Properties.Resources.resources
+D:\Project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.csproj.GenerateResource.Cache
+D:\Project\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.exe
+D:\Project\FaceRecognition\FaceRecognition\bin\Debug\FaceRecognition.pdb
+D:\Project\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.xml
+D:\Project\FaceRecognition\FaceRecognition\bin\Debug\Emgu.CV.UI.xml
+D:\Project\FaceRecognition\FaceRecognition\bin\Debug\Emgu.Util.xml
+D:\Project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.exe
+D:\Project\FaceRecognition\FaceRecognition\obj\Debug\FaceRecognition.pdb
